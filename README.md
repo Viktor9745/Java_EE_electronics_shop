@@ -1,5 +1,6 @@
 # Java_EE_electronics_shop
 My first Java EE project
+Main Page
 ![Снимок экрана (24)](https://user-images.githubusercontent.com/98753393/224492918-8e854781-cf58-489b-a99b-3df46ec84c3e.png)
 ![Снимок экрана (25)](https://user-images.githubusercontent.com/98753393/224492924-ebbbc682-04d8-4c99-a68d-ba4260fd6fb1.png)
 ![Снимок экрана (26)](https://user-images.githubusercontent.com/98753393/224492927-dd89c3cb-020a-457f-8f8e-30e53a68bff8.png)
